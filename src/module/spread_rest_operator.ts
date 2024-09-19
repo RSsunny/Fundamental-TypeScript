@@ -29,7 +29,7 @@
         ...others
     }
 
-    // resst oparetor
+    // resst operator
 
     const addfriends=(...resat:string[])=>{
         const paragraphs=resat.forEach((num:string):string=>num)
