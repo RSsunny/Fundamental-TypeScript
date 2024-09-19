@@ -25,3 +25,5 @@ const obj:{
         return third+fourth+this.CGPA
     }
 }
+
+obj.totalCGPA(3.45,3.50)
