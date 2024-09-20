@@ -37,3 +37,9 @@ Description here...
 - tsc configuration
 <!-- install ts-node-dev if you need output -->
 - ts-node-dev
+
+### How to use ts-node-dev
+
+```
+ts-node-dev --respawn --transpile-only diractory-path
+```
