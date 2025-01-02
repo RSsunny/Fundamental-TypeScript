@@ -1,5 +1,5 @@
 {
-    // union type
+    // union type 
     type Frontenddeveloper= "frontend expert"| "junior developer"
     type Backenddeveloper= "junior developer"|"backend expert"
     type developer= Frontenddeveloper|Backenddeveloper

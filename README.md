@@ -1,5 +1,7 @@
 # TypeScript-Fundamental
 
+### TypeScript is JavaScript with added syntax for types.
+
 ## Table of Contents
 
 - [Basic Data Types](src/module/basic_data_type.ts)
